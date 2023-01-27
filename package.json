@@ -5,6 +5,9 @@
   "scripts": {
     "start": "nodemon bin/www"
   },
+    "optionalDependencies": {
+    "fsevents": "^2.3.2"
+  }, 
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
