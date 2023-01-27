@@ -227,20 +227,22 @@ nav {
         border-bottom: solid 2px #8000FF;
         border-radius: 1.5ch;
     }
-    
-       .top-nav li a:hover {
+
+    .top-nav li a:hover {
         display: flex;
         box-shadow: inset 0 100px #8000FF;
         border-radius: 10ch;
         height: 48px;
     }
-
+    
     .bottom-nav {
         display: flex;
         flex-direction: row;
         align-items: center;
         justify-content: center;
+        margin: 30px 0px;
     }
+
 
     .bottom-nav p {
         position: relative;
@@ -276,7 +278,7 @@ nav {
         font-size: 14px;
         right: 20px;
     }
-    
+
     .bottom-nav button:hover {
         box-shadow: inset 0 12px 12px -12px #394476;
     }
@@ -509,12 +511,12 @@ nav {
         border-radius: 1.5ch;
     }
 
-
     .bottom-nav {
         display: flex;
         flex-direction: row;
         align-items: center;
         justify-content: center;
+        margin: 30px 0px;
     }
 
     .bottom-nav p {
