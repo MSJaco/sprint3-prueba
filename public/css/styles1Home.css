@@ -329,7 +329,6 @@ hr {
         align-items: center;
     }
 
-
     .separador1 {
         display: flex;
         flex-direction: column;
@@ -462,6 +461,11 @@ hr {
         right: 20px;
     }
 
+        .bottom-nav button:hover {
+        box-shadow: inset 0 12px 12px -12px #394476;
+    }
+    
+    
     .linea-divisoria4 {
         border: 0;
         height: 12px;
