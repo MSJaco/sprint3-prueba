@@ -458,7 +458,7 @@ nav {
         display: none;
         list-style: none;
         width: 140px;
-        top: 21%;
+        top: 20.5%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
@@ -725,7 +725,7 @@ nav {
         display: none;
         list-style: none;
         width: 140px;
-        top: 22%;
+        top: 23%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
@@ -919,6 +919,7 @@ nav {
     .carrito i {
         color: #FF715B;
         display: inline-flex;
+        font-size: 28px;
         margin-left: 10px;
         text-align: center;
         align-items: center;
@@ -972,7 +973,7 @@ nav {
         display: none;
         list-style: none;
         width: 140px;
-        top: 29.8%;
+        top: 30.5%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
@@ -1158,6 +1159,7 @@ nav {
     .carrito i {
         color: #FF715B;
         display: inline-flex;
+        font-size: 28px;
         margin-left: 10px;
         text-align: center;
         align-items: center;
@@ -1212,7 +1214,7 @@ nav {
         display: none;
         list-style: none;
         width: 140px;
-        top: 33%;
+        top: 33.5%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
@@ -1354,7 +1356,7 @@ nav {
         display: none;
         list-style: none;
         width: 140px;
-        top: 29.5%;
+        top: 37%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
