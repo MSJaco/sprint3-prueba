@@ -1518,6 +1518,20 @@ h1 {
     }
 }
 
+@media (min-width: 1653.54px) {
+
+    .sub-menu {
+        position: absolute;
+        display: none;
+        list-style: none;
+        width: 140px;
+        top: 29.5%;
+        padding: 0px;
+        background-color: #394476;
+        z-index: 1;
+    }
+}
+
 
 @media (min-width: 1700px) {
 
