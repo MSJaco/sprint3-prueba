@@ -948,7 +948,7 @@ hr {
     }
 }
 
-@media (min-width: 600px) {
+@media (min-width: 500px) {
 
 
     .sub-menu {
@@ -956,7 +956,7 @@ hr {
         display: none;
         list-style: none;
         width: 140px;
-        top: 24%;
+        top: 30%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
