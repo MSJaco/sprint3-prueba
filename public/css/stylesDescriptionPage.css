@@ -120,8 +120,10 @@ h1 {
     text-decoration: none;
 }
 
-.myButton:hover {
-    background-color: #476e9e;
+.myButton:focus {
+    background-color: white;
+    color: black;
+    font-size: 21px;
 }
 
 .myButton:active {
