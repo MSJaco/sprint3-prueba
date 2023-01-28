@@ -211,7 +211,7 @@ h5 {
 }
 
 .todos:hover{
-box-shadow: inset 0 100px #741579;
+    box-shadow: inset 0 100px #741579;
 }
 
 .todos a {
@@ -361,7 +361,7 @@ hr {
         font-size: 18px;
         font-weight: 900px;
         text-align: center;
-        margin-top: 10%;
+        margin-top: 50px;
     }
 
     .fa-arrow-left {
