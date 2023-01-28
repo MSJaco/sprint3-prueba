@@ -983,6 +983,43 @@ hr {
     }
 }
 
+@media (max-height:768px) {
+.sub-menu {
+    position: absolute;
+    display: none;
+    list-style: none;
+    width: 140px;
+    top: 36%;
+    padding: 0px;
+    background-color: #394476;
+    z-index: 1;
+}
+
+nav ul li:hover .sub-menu {
+    display: block;
+}
+
+.sub-menu li a {
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding: 15px 20px 15px 0px;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.sub-menu li:hover {
+    background-color: #242F62;
+    width: inherit;
+    margin: auto;
+}
+
+.sub-menu li:hover a {
+    color: #FF715B;
+    margin: 10px;
+ }
+}
+
 @media (min-width: 769px) {
 
     .burger-menu {
