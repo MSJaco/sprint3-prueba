@@ -83,6 +83,10 @@ main {
         display: none;
     }
 
+    main{
+        margin: 1000px;
+    }
+
     .user {
         display: none;
     }
