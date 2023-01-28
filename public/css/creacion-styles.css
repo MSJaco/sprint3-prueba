@@ -824,7 +824,7 @@ form select {
         display: none;
         list-style: none;
         width: 140px;
-        top: 22%;
+        top: 23%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
@@ -1072,6 +1072,7 @@ form select {
     .carrito i {
         color: #FF715B;
         display: inline-flex;
+        font-size: 28px;
         margin-left: 10px;
         text-align: center;
         align-items: center;
@@ -1125,7 +1126,7 @@ form select {
         display: none;
         list-style: none;
         width: 140px;
-        top: 29.8%;
+        top: 30%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
@@ -1329,6 +1330,7 @@ form select {
     .carrito i {
         color: #FF715B;
         display: inline-flex;
+        font-size: 28px;
         margin-left: 10px;
         text-align: center;
         align-items: center;
@@ -1383,7 +1385,7 @@ form select {
         display: none;
         list-style: none;
         width: 140px;
-        top: 33%;
+        top: 34%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
@@ -1525,7 +1527,7 @@ form select {
         display: none;
         list-style: none;
         width: 140px;
-        top: 29.5%;
+        top: 37%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
