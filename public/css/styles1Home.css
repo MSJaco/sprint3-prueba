@@ -946,8 +946,23 @@ hr {
     .social-network ul li i {
         color: #FF715B;
     }
-
 }
+
+@media (min-width: 600px) {
+
+
+    .sub-menu {
+        position: absolute;
+        display: none;
+        list-style: none;
+        width: 140px;
+        top: 24%;
+        padding: 0px;
+        background-color: #394476;
+        z-index: 1;
+    }
+}
+
 
 @media (min-width: 769px) {
 
@@ -1013,7 +1028,6 @@ hr {
         text-align: center;
         align-items: center;
     }
-
 
     .user i {
         display: inline-flex;
