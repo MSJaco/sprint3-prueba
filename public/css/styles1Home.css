@@ -983,13 +983,14 @@ hr {
     }
 }
 
-@media (max-height:869px) {
+@media (min-height:425px) {
+    
 .sub-menu {
     position: absolute;
     display: none;
     list-style: none;
     width: 140px;
-    top: 18%;
+    top: 21%;
     padding: 0px;
     background-color: #394476;
     z-index: 1;
