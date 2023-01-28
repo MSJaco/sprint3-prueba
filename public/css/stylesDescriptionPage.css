@@ -555,7 +555,7 @@ h1 {
         display: none;
         list-style: none;
         width: 140px;
-        top: 21%;
+        top: 15%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
@@ -834,7 +834,7 @@ h1 {
         display: none;
         list-style: none;
         width: 140px;
-        top: 22%;
+        top: 15.5%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
@@ -1129,7 +1129,7 @@ h1 {
         display: none;
         list-style: none;
         width: 140px;
-        top: 29.8%;
+        top: 21%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
@@ -1379,7 +1379,7 @@ h1 {
         display: none;
         list-style: none;
         width: 140px;
-        top: 33%;
+        top: 23%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
@@ -1518,21 +1518,6 @@ h1 {
     }
 }
 
-@media (min-width: 1653.54px) {
-
-    .sub-menu {
-        position: absolute;
-        display: none;
-        list-style: none;
-        width: 140px;
-        top: 29.5%;
-        padding: 0px;
-        background-color: #394476;
-        z-index: 1;
-    }
-}
-
-
 @media (min-width: 1700px) {
 
     .sub-menu {
@@ -1540,7 +1525,7 @@ h1 {
         display: none;
         list-style: none;
         width: 140px;
-        top: 29.5%;
+        top: 25.5%;
         padding: 0px;
         background-color: #394476;
         z-index: 1;
