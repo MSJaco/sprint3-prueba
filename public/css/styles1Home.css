@@ -21,7 +21,7 @@ p {
 
 header {
     background-color: #242F62;
-    margin-bottom: 5%;
+    margin-bottom: 10%;
     box-sizing: border-box;
 }
 
@@ -69,7 +69,6 @@ nav {
     font-size: 18px;
     font-weight: bolder;
     text-align: center;
-    margin-top: 20px;
 }
 
 .linea-divisoria1 {
