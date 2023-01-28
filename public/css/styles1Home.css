@@ -983,7 +983,7 @@ hr {
     }
 }
 
-@media (max-height:768px) {
+@media (max-height:425px) {
 .sub-menu {
     position: absolute;
     display: none;
